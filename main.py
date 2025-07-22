@@ -1,6 +1,6 @@
 print("******************************************")
-print("*   Welcome to Number Range Printer 🇳🇵   *")
-print("*       Made with ❤️ by Aayush Singh     *")
+print("*   Welcome to Number Range Printer ❤️    *")
+print("*       Made with 🇳🇵 by Aayush Singh     *")
 print("******************************************\n")
 
 
