@@ -1,10 +1,10 @@
 #P7_ number_printer
 
 
-# 🔢 Number Range Printer 🇳🇵
+# 🔢 Number Range Printer ❤️
 
 A simple Python project that prints numbers between a given range using a custom step size.  
-Made with ❤️ by **Aayush Singh**.
+Made with 🇳🇵 by **Aayush Singh**.
 
 ---
 
@@ -24,9 +24,9 @@ Made with ❤️ by **Aayush Singh**.
 
 ---
 
-Welcome to Number Range Printer 🇳🇵   *
+Welcome to Number Range Printer ❤️   *
 
-Made with ❤️ by Aayush Singh     *
+Made with  🇳🇵 by Aayush Singh     *
 
 
 
